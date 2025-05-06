@@ -1,0 +1,33 @@
+{
+  "Blue 50": {
+    "$type": "color",
+    "$value": "#228ef066",
+    "$description": "it's \"blue\" 😀"
+  },
+  "Boolean": {
+    "$type": "boolean",
+    "$value": false
+  },
+  "New group": {
+    "RREED": {
+      "$type": "color",
+      "$value": "#e33a3a"
+    },
+    "WHHYYYTTEE": {
+      "$type": "color",
+      "$value": "#fffff0"
+    }
+  },
+  "Number": {
+    "$type": "number",
+    "$value": 122
+  },
+  "String": {
+    "$type": "string",
+    "$value": "Stringy"
+  },
+  "transparecnt grey": {
+    "$type": "color",
+    "$value": "#0000003d"
+  }
+}
