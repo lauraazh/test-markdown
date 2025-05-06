@@ -22,7 +22,7 @@
     "backgrounds": {
       "dark": {
         "$type": "color",
-        "$value": "#1B2430"
+        "$value": "#1B2431"
       },
       "dark-primary": {
         "$type": "color",
